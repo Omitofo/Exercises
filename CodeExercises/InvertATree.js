@@ -67,3 +67,5 @@ console.log('-------------');
 
 // Imprimir el árbol invertido
 printTree(invertedRoot);
+
+
