@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "TwoSum.js",
+  "type": "module",
   "directories": {
     "test": "tests"
   },
@@ -14,5 +15,12 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "pg": "^8.13.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.5"
   }
 }
